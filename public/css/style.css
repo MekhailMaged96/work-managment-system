@@ -1,0 +1,55 @@
+
+.margin-top {
+    margin-top: 10px;
+}
+a {
+    color: #000;
+}
+a:hover {
+    color:#000;
+}
+.worker-cont form,table {
+    margin: 40px 0;
+    
+}
+
+.delworker {
+
+    border: 1px solid #d4d4d4;
+    padding: 10px;
+    margin-top: 40px;
+    margin-right: 10px;
+}
+
+.delworker h2 {
+    padding: 10px;
+    text-align: center;
+}
+.dropdown-item.active, .dropdown-item:active {
+    color: #fff;
+    text-decoration: none;
+    background-color:#fff;
+  }
+.admin-cont h1  {
+   margin: 20px 0;
+   text-align: center;
+  }
+.margin-select-top {
+    margin-top:40px;
+}
+
+.navbar-text span:first-child{
+    text-transform: capitalize;
+
+}.nav-item span:nth-of-type(2) {
+    color: #F00;
+  }
+  .navbar-text {
+    margin-left: 50px;
+}
+@media screen and (max-width:700px) {
+
+    .navbar-text {
+        margin-left: 0px;
+    }
+}
